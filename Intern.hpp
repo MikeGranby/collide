@@ -1,9 +1,9 @@
 
 //////////////////////////////////////////////////////////////////////////
 //
-// Fun with Graphics 
+// Elastic Collisions
 //
-// Copyright (c) 2017 Granby Consulting LLC
+// Copyright (c) 2017-2018 Mike Granby
 //
 // All Rights Reserved
 //
